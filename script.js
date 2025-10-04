@@ -39,7 +39,7 @@ const courses = [
     id: 6,
     title: "Gardening",
     description: "Grow plants, herbs, and vegetables with hands-on guidance.",
-    image: "https://images.unsplash.com/photo-1606788075760-6e5f9d4dbf51?w=800",
+    image: "pexels-olly-1023404.jpg=800",
     lessons: ["Soil Preparation", "Planting Seeds", "Watering & Care", "Harvesting Tips"]
   }
 ];
@@ -114,4 +114,5 @@ function displayCourseDetails() {
     completeBtn.style.opacity = 0.7;
   });
 }
+
 
