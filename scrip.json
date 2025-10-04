@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Digital Marketing",
+    "description": "Learn online marketing, SEO, and social media growth.",
+    "image": "https://images.unsplash.com/photo-1556761175-129418cb2dfe?w=800",
+    "lessons": ["Intro to Marketing", "SEO Basics", "Social Media Ads", "Email Campaigns"]
+  },
+  {
+    "id": 2,
+    "title": "Media",
+    "description": "Master storytelling, content creation, and broadcasting.",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?w=800",
+    "lessons": ["Media Ethics", "Visual Storytelling", "Video Editing", "Podcast Production"]
+  },
+  {
+    "id": 3,
+    "title": "Beauty",
+    "description": "Develop your beauty and skincare artistry skills.",
+    "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800",
+    "lessons": ["Skin Types", "Makeup Basics", "Beauty Tools", "Professional Techniques"]
+  },
+  {
+    "id": 4,
+    "title": "Cooking and Baking",
+    "description": "Cook tasty meals and bake delightful desserts.",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+    "lessons": ["Cooking Safety", "Simple Meals", "Cake Baking", "Food Presentation"]
+  },
+  {
+    "id": 5,
+    "title": "Sewing",
+    "description": "Create beautiful garments and learn professional sewing skills.",
+    "image": "https://images.unsplash.com/photo-1622483690861-cf15b7a1b0f7?w=800",
+    "lessons": ["Sewing Tools", "Fabric Selection", "Stitching Basics", "Design Techniques"]
+  },
+  {
+    "id": 6,
+    "title": "Gardening",
+    "description": "Grow plants, herbs, and vegetables with hands-on guidance.",
+    "image": "https://images.unsplash.com/photo-1618477461852-5c3bdb2b7b7a?w=800",
+    "lessons": ["Soil Preparation", "Planting Seeds", "Watering & Care", "Harvesting Tips"]
+  }
+]
