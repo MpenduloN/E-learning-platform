@@ -35,13 +35,6 @@ const courses = [
     image: "pexels-karolina-grabowska-8527753.jpg",
     lessons: ["Sewing Tools", "Fabric Selection", "Stitching Basics", "Design Techniques"]
   },
-  {
-    id: 6,
-    title: "Gardening",
-    description: "Grow plants, herbs, and vegetables with hands-on guidance.",
-    image: "gardening.jpg",
-    lessons: ["Soil Preparation", "Planting Seeds", "Watering & Care", "Harvesting Tips"]
-  }
 ];
 
 const currentPage = window.location.pathname.split("/").pop();
@@ -114,6 +107,7 @@ function displayCourseDetails() {
     completeBtn.style.opacity = 0.7;
   });
 }
+
 
 
 
