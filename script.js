@@ -32,7 +32,7 @@ const courses = [
      id: 5,
     title: "Sewing",
     description: "Create beautiful garments and learn professional sewing skills.",
-    image: "images/sewing.jpg=800",
+    image: "pexels-karolina-grabowska-8527753.jpg",
     lessons: ["Sewing Tools", "Fabric Selection", "Stitching Basics", "Design Techniques"]
   },
   {
@@ -114,3 +114,4 @@ function displayCourseDetails() {
     completeBtn.style.opacity = 0.7;
   });
 }
+
